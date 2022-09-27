@@ -1,0 +1,34 @@
+[
+  {
+    "position": {
+      "lng": 116.403963,
+      "lat": 39.915119
+    },
+    "content": "天安门",
+    "animation": "",
+    "link": "链接地址",
+    "linkContent": "简介。。。"
+  },
+  {
+    "position": {
+      "lng": 116.314592,
+      "lat": 39.926635
+    },
+    "content": "中塔公园",
+    "animation": "",
+    "link": "链接地址",
+    "linkContent": "简介。。。",
+    "icon": "blue"
+  },
+  {
+    "position": {
+      "lng": 116.382937,
+      "lat": 39.926824
+    },
+    "content": "礼王府",
+    "animation": "",
+    "link": "链接地址",
+    "linkContent": "简介。。。",
+    "icon": "orange"
+  }
+]

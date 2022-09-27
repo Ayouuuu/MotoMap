@@ -1,0 +1,15 @@
+{
+  "title": "MotoMap",
+  "ak": "",
+  "center": {
+    "lng": 116.391889,
+    "lat": 39.893197,
+    "zoom": 11
+  },
+  "icons": {
+    "red": "https://pic.imgdb.cn/item/6322b19416f2c2beb1b2f4fc.png",
+    "orange": "https://pic.imgdb.cn/item/6322b19416f2c2beb1b2f4f7.png",
+    "blue": "https://pic.imgdb.cn/item/6322b19416f2c2beb1b2f4f2.png",
+    "origin": "https://www.iconfont.cn/search/index?searchType=icon&q=%E5%AE%9A%E4%BD%8D&page=1&fromCollection=1&fills=&tag="
+  }
+}
