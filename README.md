@@ -7,7 +7,7 @@
 
 ## 演示地址
 [https://moto-map-9cfv.vercel.app/](https://moto-map-9cfv.vercel.app/)(部署到 Vercel)  
-[https://moto.ayou10031.cn/](https://moto.ayou10031.cn/)(部署到 Vercel,使用自定义域名)
+[https://moto.ayou10031.com/](https://moto.ayou10031.com/)(部署到 Vercel,使用自定义域名)
 
 ## 部署到 Vercel
 首先你需要 **Fork** 本项目到您的仓库，然后在 **Vercel** 平台上面导入自己的项目！之后 **Vercel** 会自动部署，当你修改文件也会自动更新。  
