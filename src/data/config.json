@@ -7,9 +7,9 @@
     "zoom": 11
   },
   "icons": {
-    "red": "https://pic.imgdb.cn/item/6322b19416f2c2beb1b2f4fc.png",
-    "orange": "https://pic.imgdb.cn/item/6322b19416f2c2beb1b2f4f7.png",
-    "blue": "https://pic.imgdb.cn/item/6322b19416f2c2beb1b2f4f2.png",
+    "red": "https://cdn.jsdelivr.net/gh/Ayouuuu/MotoMap@master/src/assets/red.jpg",
+    "orange": "https://cdn.jsdelivr.net/gh/Ayouuuu/MotoMap@master/src/assets/origin.jpg",
+    "blue": "https://cdn.jsdelivr.net/gh/Ayouuuu/MotoMap@master/src/assets/blue.jpg",
     "origin": "https://www.iconfont.cn/search/index?searchType=icon&q=%E5%AE%9A%E4%BD%8D&page=1&fromCollection=1&fills=&tag="
   }
 }
